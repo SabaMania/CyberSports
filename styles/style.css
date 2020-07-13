@@ -8,15 +8,17 @@ body {
 	max-width: 1000px;
 	width: 100%;
 	margin: 0 auto;
-	height: 1000px;
+	height: 969px;
 }
 .first {
-	background-color: red;
+	background-color:red;
 	height: 100px;
 	display: flex;
 }
 .logo {
-	padding: 35px 0 0 10px;
+	padding: 20px 0 0 10px;
+	height: 80px;
+	width: 100px;
 }
 .navbar {
 	padding: 35px 0 0 50px;
